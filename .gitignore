@@ -1,1 +1,22 @@
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# LaTeX
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.out
+*.fls
+*.fdb_latexmk
+
+# C / C++
+*.o
+*.obj
+*.exe
+*.out
